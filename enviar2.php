@@ -1,7 +1,7 @@
 <?php
 $nombre = $_POST['nombre'];
 $mail = $_POST['email'];
-$subject = $_POST['SUBJECT'];
+$subject = $_POST['subject'];
 $empresa = $_POST['mensaje'];
 
 
